@@ -1,0 +1,61 @@
+/* #c6538c */
+.masthead {
+  text-align: center;
+  color: #fff;
+  background-image: url("../../../assets/alpha-academy-java.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 17rem;
+  padding-bottom: 12.5rem;
+}
+.masthead .masthead-subheading {
+  font-size: 2.25rem;
+  font-style: italic;
+  line-height: 2.25rem;
+  margin-bottom: 4rem;
+}
+.masthead .masthead-heading {
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 4.5rem;
+  margin-bottom: 2rem;
+}
+.masthead .btn {
+  cursor: pointer;
+  padding: 1.25rem 2.5rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #fff;
+  background-color: #2a9398;
+  border-color: #2a9398;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+
+/*
+@media (min-width: 768px){
+  .masthead {
+    padding-top: 17rem;
+    padding-bottom: 12.5rem;
+
+    .masthead-subheading {
+      font-size: 2.25rem;
+      font-style: italic;
+      line-height: 2.25rem;
+      margin-bottom: 4rem;
+    }
+
+    .masthead-heading {
+        font-size: 4.5rem;
+        font-weight: 700;
+        line-height: 4.5rem;
+        margin-bottom: 2rem;
+    }
+  }
+}
+*/
+
+/*# sourceMappingURL=Masthead.css.map */

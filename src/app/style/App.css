@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+section {
+  padding: 6rem 0;
+}
+
+h2.section-heading {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 4rem;
+}
+
+h3.section-subheading {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 4rem;
+}
+
+/*# sourceMappingURL=App.css.map */

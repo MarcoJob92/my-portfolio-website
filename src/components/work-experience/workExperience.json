@@ -1,0 +1,41 @@
+{
+  "title": "Work Experience",
+  "timeline": [
+    {"company": "3D Innovations",
+      "date": "June 2020",
+      "location": "London, UK",
+      "img": "3di-logo.png",
+      "description": "..."
+    },
+    {"company": "Credit Suisse",
+      "date": "March 2019",
+      "location": "London, UK",
+      "img": "credit-suisse-logo.png",
+      "description": "Development from scratch of a Data-driven Web Application in a Bank environment, working full-stack with Javascript (ECMAScript 6), a OOP language (JAVA) and a functional programming language (Clojure). I worked in an Agile team, interacting with technical and non-technical people (front-office)."
+    },
+    {"company": "Allianz",
+      "date": "Jannuary 2018",
+      "location": "Milan, Italy",
+      "img": "allianz-logo.jpg",
+      "description": "Development, mainly with Java 8 using a TDD approach, of an Application for Document Management that allowed users to upload and view documents. Exposed Web Services to external applications using a micro-services architecture."
+    },
+    {"company": "HighWay",
+      "date": "Jannuary 2017",
+      "location": "Milan, Italy",
+      "img": "highway-logo.png",
+      "description": "<p>Full-Stack Development of a JAVA eCommerce (plus Project Management Application), working in a highly specialised Web Agency.</p><p>Development of a small Client Application using C#.</p><p>Development of a Facebook Chatbot using NodeJS and a NO-SQL DB.</p>"
+    },
+    {"company": "Deloitte Digital",
+      "date": "July 2016",
+      "location": "Milan, Italy",
+      "img": "deloitte-logo.png",
+      "description": " Front-end and Back-end development of a B2B eCommerce for an important client (MSC Cruise Company), working in an Agile big team (following Scrum rules)."
+    },
+    {"company": "GCI",
+       "date": "May 2016",
+       "location": "Milan, Italy",
+       "img": "picture.png",
+      "description": "<p>Front-End and Back-End Development for a Management Web Application.</p><p>Banking consultancy (SSM) for an important Italian Bank (Intesa Sanpaolo) working on a Big Data project.</p>"
+    }
+  ]
+}

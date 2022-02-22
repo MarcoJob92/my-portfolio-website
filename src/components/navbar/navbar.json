@@ -1,0 +1,8 @@
+[
+  {"title": "About Me", "className": "about-me"},
+  {"title": "Skill set", "className": "skillset"},
+  {"title": "Work Experience", "className": "work-experience"},
+  {"title": "Projects", "className": "projects"},
+  {"title": "GitHub", "className": "git-hub"},
+  {"title": "Contacts", "className": "contacts"}
+]

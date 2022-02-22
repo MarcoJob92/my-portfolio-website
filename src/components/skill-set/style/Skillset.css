@@ -1,0 +1,17 @@
+.skillset .skill-bar {
+  background: #C4C4C4;
+  display: table;
+  height: 4px;
+  width: 100%;
+  margin: 10px -2px 20px -2px;
+}
+.skillset .skill-bar .skill-rate {
+  display: table-cell;
+  border-left: 2px solid #FFF;
+  border-right: 2px solid #FFF;
+}
+.skillset .skill-bar .skill-rate.on {
+  background: #353535;
+}
+
+/*# sourceMappingURL=Skillset.css.map */

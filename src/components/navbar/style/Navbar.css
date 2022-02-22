@@ -1,0 +1,19 @@
+nav.navbar {
+  background-color: #212529;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #212529;
+}
+nav.navbar .nav-item {
+  margin-right: 1rem;
+}
+nav.navbar .nav-item .nav-link {
+  font-size: 0.95rem;
+  letter-spacing: 0.0625em;
+  cursor: pointer;
+}
+nav.navbar .nav-item .nav-link:hover {
+  color: #2a9398;
+}
+
+/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,10 @@
+{
+  "title": "About Me",
+  "descriptionHeading": "Hi, my name is Marco.",
+  "description": [
+    "I am a <b>Java Full-stack Software Engineer</b> from London, UK. I have been working in the IT field since 2016 and worked across several projects, manly Web-based but not only, for both Big firms and Start-ups.",
+    "I have almost ever worked as a full-stack developer in all my work experiences, learning and using a braod range of different technologies.",
+    "Altough I know many different languages (NodeJS and <a href='https://en.wikipedia.org/wiki/Clojure'>Clojure</a> to name a few), <b>Java</b> is my main programming language, I like to work with it and be part of a huge active comunity of developers that use this OOP language and its well known frameworks.",
+    "But it's not all about OOP and Java. As a full-stack developer, I love to build dynamic UIs and that's why I love modern front-end frameworks such as <b>React</b>. (Oh, by the way, this website was developed using React and JSX, keep reading to find out more)."
+  ]
+}

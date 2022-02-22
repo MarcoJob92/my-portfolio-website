@@ -1,0 +1,11 @@
+.projects .section-heading {
+  margin-bottom: 1rem;
+}
+.projects p {
+  margin: 1.5rem 0 0 0;
+}
+.projects .img-container img {
+  max-width: 100%;
+}
+
+/*# sourceMappingURL=Projects.css.map */

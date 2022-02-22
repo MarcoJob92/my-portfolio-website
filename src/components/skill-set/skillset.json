@@ -1,0 +1,13 @@
+{
+  "title": "Skill Set",
+  "skills": [
+    {"name": "Java", "score": 10},
+    {"name": "Spring", "score": 8},
+    {"name": "Hibernate", "score": 7},
+    {"name": "SQL", "score": 8},
+    {"name": "Javascript (ECMAscript)", "score": 9},
+    {"name": "React", "score": 9},
+    {"name": "Redux", "score": 6},
+    {"name": "CSS", "score": 7}
+  ]
+}
