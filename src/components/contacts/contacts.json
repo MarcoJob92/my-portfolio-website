@@ -1,7 +1,8 @@
 {
   "title": "Contacts",
   "contacts": [
-    {"img": "https://img.icons8.com/clouds/344/email.png", "contact": "marco.job92@gmail.com"},
-    {"img": "phonelink-ring.png", "contact": "07576564916"}
+    {"img": "email.png", "contact": "marco.job92@gmail.com"},
+    {"img": "phonelink-ring.png", "contact": "07576564916"},
+    {"img": "resume.png", "type": "button"}
   ]
 }

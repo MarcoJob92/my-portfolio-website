@@ -31,9 +31,4 @@ function App() {
   );
 }
 
-// TODO:
-// Make Timesheet evo and Portfolio running on the same Server
-// Workaround: marcofurone.com = Portfolio
-//             marcofurone.com/timesheetevo = redirects to www.timesheetevo.it:8080
-
 export default App;

@@ -1,15 +1,13 @@
-$base-colour: #548; /* #c6538c */
+$base-colour: #548;
 
 .masthead {
   text-align: center;
   color: #fff;
-  background-image: url("../../assets/alpha-academy-java.jpg");
+  background-image: url("../asset/alpha-academy-java.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-
-
   padding-top: 17rem;
   padding-bottom: 12.5rem;
 
@@ -41,26 +39,3 @@ $base-colour: #548; /* #c6538c */
     text-decoration: none;
   }
 }
-
-/*
-@media (min-width: 768px){
-  .masthead {
-    padding-top: 17rem;
-    padding-bottom: 12.5rem;
-
-    .masthead-subheading {
-      font-size: 2.25rem;
-      font-style: italic;
-      line-height: 2.25rem;
-      margin-bottom: 4rem;
-    }
-
-    .masthead-heading {
-        font-size: 4.5rem;
-        font-weight: 700;
-        line-height: 4.5rem;
-        margin-bottom: 2rem;
-    }
-  }
-}
-*/

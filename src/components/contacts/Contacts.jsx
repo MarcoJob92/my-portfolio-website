@@ -11,16 +11,14 @@ function Contacts (props) {
             <h2 class="section-heading text-uppercase">{text.title}</h2>
         </div>
         <Row>
-          {text.contacts.map(({img, contact}) =>
+          {text.contacts.map(({img, contact, type}) =>
             <Col xs={4} className="text-center">
               <img alt="contacts" src={img} height="75px" />
               <b>{contact}</b>
+              {type === "button" &&
+                <Button variant="outline-dark">Download CV</Button>}
             </Col>
           )}
-          <Col xs={4} className="text-center">
-            <img alt="resume" src="https://img.icons8.com/clouds/344/resume.png" height="75px" />
-            <Button variant="outline-dark">Download CV</Button>
-          </Col>
         </Row>
       </Container>
     </Element>

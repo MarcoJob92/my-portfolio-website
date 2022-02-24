@@ -1,9 +1,25 @@
-import React from 'react';
+import React from 'react'
 import './style/Skillset.css'
 import Container from 'react-bootstrap/Container'
 import text from './skillset.json'
 
 function Skillset (props) {
+  const SkillBar = ({skill, score}) => {
+    return (
+      <>
+        <label>{skill}</label>
+        <div class="skill-bar">
+          {Array(score).fill().map(i =>
+            <div class="skill-rate on"></div>
+          )}
+          {Array(10 - score).fill().map(i =>
+            <div class="skill-rate off"></div>
+          )}
+        </div>
+      </>
+    )
+  }
+
   return (
     <section class="skillset bg-light">
       <Container>
@@ -17,22 +33,6 @@ function Skillset (props) {
         </div>
       </Container>
     </section>
-  )
-}
-
-const SkillBar = ({skill, score}) => {
-  return (
-    <>
-      <label>{skill}</label>
-      <div class="skill-bar">
-        {Array(score).fill().map(i =>
-          <div class="skill-rate on"></div>
-        )}
-        {Array(10 - score).fill().map(i =>
-          <div class="skill-rate off"></div>
-        )}
-      </div>
-    </>
   )
 }
 

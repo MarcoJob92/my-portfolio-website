@@ -1,5 +1,5 @@
-import React from 'react';
-import './About.css'
+import React from 'react'
+import './style/About.css'
 import Container from 'react-bootstrap/Container'
 import ReactHtmlParser from 'react-html-parser'
 import text from './about.json'
@@ -13,9 +13,9 @@ function About (props) {
             <img alt="about-me" src="administrator-male.png" height="120" />
         </div>
         <div>
-          <div className="description-heading">{text.descriptionHeading}</div>
-          {text.description.map(d =>
-            <div className="mb-3"> {ReactHtmlParser(d)} </div>
+          <h5>{text.descriptionHeading}</h5>
+          {text.description.map(desc =>
+            <div className="mb-3"> {ReactHtmlParser(desc)} </div>
           )}
         </div>
       </Container>
