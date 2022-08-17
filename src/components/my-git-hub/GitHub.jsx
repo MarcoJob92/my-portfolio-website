@@ -1,5 +1,4 @@
 import React from 'react';
-import './style/GitHub.css'
 import text from './gitHub.json'
 import ReactHtmlParser from 'react-html-parser'
 import { Element } from 'react-scroll'

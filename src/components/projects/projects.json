@@ -3,8 +3,8 @@
   "subtitle": "Indipendent Project",
   "description": [
     "I indipendently developed a Web Application by myself: <b>Timesheet Evo</b>.",
-    "It is an Application to manage Timesheets, Expensive notes and Leaves of employees.",
-    "The website contains also its ‘commercial’ landing paging, although this is not a real commercial application, and lorem ipsum .......",
-    "<a href='http://www.timesheetevo.it'>www.timesheetevo.it</a>"
+    "It is a Web Application to manage Timesheets, Expense Notes and Leaves of employees.",
+    "The website contains a landing paging that brifley shows the functionalities of the application and, after the user is logged-in, the real managment application can be used.",
+    "<a href='http://www.timesheetevo.com'>www.timesheetevo.com</a>"
   ]
 }
