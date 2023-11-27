@@ -26,7 +26,7 @@ function App() {
           <Contacts />
         </main>
       </Route>
-      <Route exact path="/timesheetevo" render={() => (window.location = "http://timesheetevo.it:8080")} />
+      <Route exact path="/timesheetevo" render={() => (window.location = "http://timesheetevo.com")} />
     </Router>
   );
 }

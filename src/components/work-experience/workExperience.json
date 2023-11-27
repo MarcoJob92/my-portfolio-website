@@ -1,6 +1,14 @@
 {
   "title": "Work Experience",
   "timeline": [
+    {"company": "Go City",
+      "date": "October 2022",
+      "location": "London, UK",
+      "img": "go-city.png",
+      "description": ["Involved in the development of several new micro-services, both front-end and back-end, to build new applications that have replaced legacy software in a technological transformation phase of the company resulting in annual savings of over £100k, performance improvements of up to 25% and more maintainable code.",
+                      "Designed software components, planned tickets, wrote technical specifications, working in an Agile team made of 10 people and collaborating on a daily basis with product managers, designers, stakeholders and software engineers, senior and junior.",
+                      "Being responsible for the delivery of the code to the production environment and being on-call on a monthly basis fixing production issues."]
+    },
     {"company": "3D Innovations",
       "date": "June 2020",
       "location": "London, UK",
