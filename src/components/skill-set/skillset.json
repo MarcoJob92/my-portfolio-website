@@ -2,12 +2,13 @@
   "title": "Skill Set",
   "skills": [
     {"name": "Java", "score": 10},
-    {"name": "Spring", "score": 8},
+    {"name": "Spring", "score": 9},
     {"name": "Hibernate", "score": 7},
     {"name": "SQL", "score": 8},
-    {"name": "Javascript (ECMAscript)", "score": 9},
-    {"name": "React", "score": 9},
+    {"name": "Javascript/Typescript", "score": 8},
+    {"name": "React", "score": 8},
     {"name": "Redux", "score": 6},
-    {"name": "CSS", "score": 7}
+    {"name": "CSS", "score": 7},
+    {"name": "Kubernetes/Terraform", "score": 6}
   ]
 }
